@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.amazing-title {
+
+  background-color: #DCDCDC;
+  height: 250px;
+  oppacity: 80%;
+}
+
+.judul {
+  font-size: 40px;
+  font-style: normal;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.deskripsi {
+  font-size: 20px;
+  text-align: center;
+  padding:0.1px 20px;
+
+}
+.konten {
+  margin: 20px;
+}
+
+.gallery {
+    background-color: white;
+    height: 400px;
+}
+
+.item {
+  width: 25%;
+  float:left;
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.item-box {
+  height: 150px;
+  margin-bottom: 100px;
+
+}
+
+
+.green {
+  background-color:green;
+}
+
+.orange {
+   background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+.item p {
+  font-size: 20px;
+  text-align: center;
+  padding:65px;
+}
+
+.item:hover{
+  color:white;
+  oppacity:50%;
+  cursor: pointer;
+}
+.footer {
+  height: 30px;
+}
